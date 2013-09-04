@@ -3,10 +3,12 @@
 filter.properties
 zkconf.properties
 
+
 #### IDEA ####
 
 .idea
 *.iml
+
 
 #### Java ####
 
@@ -17,9 +19,11 @@ target/
 *.jar
 *.war
 
+
 #### JavaScript ####
 
 compact/
+
 
 #################
 ## Eclipse
