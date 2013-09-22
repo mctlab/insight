@@ -8,7 +8,7 @@
     </appender>
 
     <logger name="org.springframework" level="INFO" />
-    <logger name="cn.mctlab.insight.common" level="DEBUG" />
+    <logger name="com.github.mctlab.insight.common" level="DEBUG" />
 
     <root>
         <level value="INFO" />
